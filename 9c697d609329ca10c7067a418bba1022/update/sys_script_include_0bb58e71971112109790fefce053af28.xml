@@ -8,7 +8,6 @@
         <description>Once of script to get the plant diseases from an external source. Do not run this more than once otherwise duplicates will exist</description>
         <mobile_callable>false</mobile_callable>
         <name>get_plant_diseases</name>
-        <sandbox_callable>false</sandbox_callable>
         <script><![CDATA[var get_plant_diseases = Class.create();
 get_plant_diseases.prototype = {
     initialize: function() {

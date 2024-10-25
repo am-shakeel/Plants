@@ -6,6 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-01 08:48:30</sys_created_on>
+            <sys_id>d1fa6e04c3a59250d137f7fdd40131f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>pottery_type</sys_name>
             <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
@@ -29,6 +30,7 @@
             <sys_created_on>2024-10-01 08:48:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>d36b6688c3a59250d137f7fdd40131aa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-01 08:48:30</sys_updated_on>
@@ -48,6 +50,7 @@
             <sys_created_on>2024-10-01 08:48:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>576b6688c3a59250d137f7fdd40131ab</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-01 08:48:30</sys_updated_on>
@@ -67,6 +70,7 @@
             <sys_created_on>2024-10-01 08:48:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>d76b6688c3a59250d137f7fdd40131ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-01 08:48:30</sys_updated_on>
@@ -86,6 +90,7 @@
             <sys_created_on>2024-10-01 08:48:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b6b6688c3a59250d137f7fdd40131ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-01 08:48:30</sys_updated_on>
@@ -105,6 +110,7 @@
             <sys_created_on>2024-10-01 08:48:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>db6b6688c3a59250d137f7fdd40131ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-01 08:48:30</sys_updated_on>
